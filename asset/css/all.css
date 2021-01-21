@@ -1,0 +1,9 @@
+.card{
+    height: 600px;
+}
+.card img{
+    height: fit-content;
+}
+body{
+    text-align: justify;
+}
